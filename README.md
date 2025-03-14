@@ -3,10 +3,3 @@ A program made with Python as the Frontend and MySQL as the Backend where a book
 This program will be further updated into a web app in the future.
 
 #initial-readme
-MYSQL (Backend)
-
-you will need to create 5 tables; Login,Books,Cart,Buy,Orders 
-the details of the tables will be uploaded as pngs
-
-Python( Frontend)
- just make sure you have mysql connector, that is all.
