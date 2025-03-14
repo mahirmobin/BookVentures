@@ -1,0 +1,7 @@
+MYSQL (Backend)
+
+you will need to create 5 tables; Login,Books,Cart,Buy,Orders 
+the details of the tables will be uploaded as pngs
+
+Python( Frontend)
+ just make sure you have mysql connector, that is all.
